@@ -334,6 +334,7 @@ li {
 
     background: url("image/back.png") center no-repeat ;
     background-size: cover;
+	
 }
 .pointer {
 	position: absolute;
@@ -386,6 +387,7 @@ li {
 }
 .sphere-block {
 	display: inline-block;
+	width: 100%;
 }
 .me-paragraph {
 	font-size: 30px;
